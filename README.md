@@ -5,7 +5,7 @@
 This is one of my first MERN stack projects, i compiled all what i've been
 learning about MERN in this project, this is the version 1.0.0
 
-![Repri main Layout](https://user-images.githubusercontent.com/Repri-MERN-SocialMedia/Layout.png)
+![Repri main Layout](Layout.png)
 
 Check out, all things that i did along of this projet
 
